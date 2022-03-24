@@ -1,0 +1,15 @@
+D:\Aulas C#\01-2022\teste3\teste3\bin\Debug\net6.0\teste3.exe
+D:\Aulas C#\01-2022\teste3\teste3\bin\Debug\net6.0\teste3.deps.json
+D:\Aulas C#\01-2022\teste3\teste3\bin\Debug\net6.0\teste3.runtimeconfig.json
+D:\Aulas C#\01-2022\teste3\teste3\bin\Debug\net6.0\teste3.dll
+D:\Aulas C#\01-2022\teste3\teste3\bin\Debug\net6.0\ref\teste3.dll
+D:\Aulas C#\01-2022\teste3\teste3\bin\Debug\net6.0\teste3.pdb
+D:\Aulas C#\01-2022\teste3\teste3\obj\Debug\net6.0\teste3.csproj.AssemblyReference.cache
+D:\Aulas C#\01-2022\teste3\teste3\obj\Debug\net6.0\teste3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aulas C#\01-2022\teste3\teste3\obj\Debug\net6.0\teste3.AssemblyInfoInputs.cache
+D:\Aulas C#\01-2022\teste3\teste3\obj\Debug\net6.0\teste3.AssemblyInfo.cs
+D:\Aulas C#\01-2022\teste3\teste3\obj\Debug\net6.0\teste3.csproj.CoreCompileInputs.cache
+D:\Aulas C#\01-2022\teste3\teste3\obj\Debug\net6.0\teste3.dll
+D:\Aulas C#\01-2022\teste3\teste3\obj\Debug\net6.0\ref\teste3.dll
+D:\Aulas C#\01-2022\teste3\teste3\obj\Debug\net6.0\teste3.pdb
+D:\Aulas C#\01-2022\teste3\teste3\obj\Debug\net6.0\teste3.genruntimeconfig.cache

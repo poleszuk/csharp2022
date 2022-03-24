@@ -1,0 +1,15 @@
+D:\Aulas C#\01-2022\Teste4\Teste4\bin\Debug\net6.0\Teste4.exe
+D:\Aulas C#\01-2022\Teste4\Teste4\bin\Debug\net6.0\Teste4.deps.json
+D:\Aulas C#\01-2022\Teste4\Teste4\bin\Debug\net6.0\Teste4.runtimeconfig.json
+D:\Aulas C#\01-2022\Teste4\Teste4\bin\Debug\net6.0\Teste4.dll
+D:\Aulas C#\01-2022\Teste4\Teste4\bin\Debug\net6.0\ref\Teste4.dll
+D:\Aulas C#\01-2022\Teste4\Teste4\bin\Debug\net6.0\Teste4.pdb
+D:\Aulas C#\01-2022\Teste4\Teste4\obj\Debug\net6.0\Teste4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aulas C#\01-2022\Teste4\Teste4\obj\Debug\net6.0\Teste4.AssemblyInfoInputs.cache
+D:\Aulas C#\01-2022\Teste4\Teste4\obj\Debug\net6.0\Teste4.AssemblyInfo.cs
+D:\Aulas C#\01-2022\Teste4\Teste4\obj\Debug\net6.0\Teste4.csproj.CoreCompileInputs.cache
+D:\Aulas C#\01-2022\Teste4\Teste4\obj\Debug\net6.0\Teste4.dll
+D:\Aulas C#\01-2022\Teste4\Teste4\obj\Debug\net6.0\ref\Teste4.dll
+D:\Aulas C#\01-2022\Teste4\Teste4\obj\Debug\net6.0\Teste4.pdb
+D:\Aulas C#\01-2022\Teste4\Teste4\obj\Debug\net6.0\Teste4.genruntimeconfig.cache
+D:\Aulas C#\01-2022\Teste4\Teste4\obj\Debug\net6.0\Teste4.csproj.AssemblyReference.cache
