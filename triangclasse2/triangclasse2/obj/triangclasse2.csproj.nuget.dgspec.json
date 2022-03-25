@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Aulas C#\\2022\\triangclasse1\\Teste4\\Teste4.csproj": {}
+    "D:\\Aulas C#\\2022\\triangclasse2\\triangclasse2\\triangclasse2.csproj": {}
   },
   "projects": {
-    "D:\\Aulas C#\\2022\\triangclasse1\\Teste4\\Teste4.csproj": {
+    "D:\\Aulas C#\\2022\\triangclasse2\\triangclasse2\\triangclasse2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Aulas C#\\2022\\triangclasse1\\Teste4\\Teste4.csproj",
-        "projectName": "Teste4",
-        "projectPath": "D:\\Aulas C#\\2022\\triangclasse1\\Teste4\\Teste4.csproj",
+        "projectUniqueName": "D:\\Aulas C#\\2022\\triangclasse2\\triangclasse2\\triangclasse2.csproj",
+        "projectName": "triangclasse2",
+        "projectPath": "D:\\Aulas C#\\2022\\triangclasse2\\triangclasse2\\triangclasse2.csproj",
         "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-        "outputPath": "D:\\Aulas C#\\2022\\triangclasse1\\Teste4\\obj\\",
+        "outputPath": "D:\\Aulas C#\\2022\\triangclasse2\\triangclasse2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

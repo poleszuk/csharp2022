@@ -1,0 +1,15 @@
+D:\Aulas C#\2022\triangclasse2\triangclasse2\bin\Debug\net6.0\triangclasse2.exe
+D:\Aulas C#\2022\triangclasse2\triangclasse2\bin\Debug\net6.0\triangclasse2.deps.json
+D:\Aulas C#\2022\triangclasse2\triangclasse2\bin\Debug\net6.0\triangclasse2.runtimeconfig.json
+D:\Aulas C#\2022\triangclasse2\triangclasse2\bin\Debug\net6.0\triangclasse2.dll
+D:\Aulas C#\2022\triangclasse2\triangclasse2\bin\Debug\net6.0\triangclasse2.pdb
+D:\Aulas C#\2022\triangclasse2\triangclasse2\obj\Debug\net6.0\triangclasse2.csproj.AssemblyReference.cache
+D:\Aulas C#\2022\triangclasse2\triangclasse2\obj\Debug\net6.0\triangclasse2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aulas C#\2022\triangclasse2\triangclasse2\obj\Debug\net6.0\triangclasse2.AssemblyInfoInputs.cache
+D:\Aulas C#\2022\triangclasse2\triangclasse2\obj\Debug\net6.0\triangclasse2.AssemblyInfo.cs
+D:\Aulas C#\2022\triangclasse2\triangclasse2\obj\Debug\net6.0\triangclasse2.csproj.CoreCompileInputs.cache
+D:\Aulas C#\2022\triangclasse2\triangclasse2\obj\Debug\net6.0\triangclasse2.dll
+D:\Aulas C#\2022\triangclasse2\triangclasse2\obj\Debug\net6.0\refint\triangclasse2.dll
+D:\Aulas C#\2022\triangclasse2\triangclasse2\obj\Debug\net6.0\triangclasse2.pdb
+D:\Aulas C#\2022\triangclasse2\triangclasse2\obj\Debug\net6.0\triangclasse2.genruntimeconfig.cache
+D:\Aulas C#\2022\triangclasse2\triangclasse2\obj\Debug\net6.0\ref\triangclasse2.dll
